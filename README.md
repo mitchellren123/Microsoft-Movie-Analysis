@@ -1,4 +1,4 @@
-# Title
+# Microsoft Movie Analysis
 
 **Authors**: Mitchell Ren
 
@@ -60,25 +60,25 @@ I feel that my work gives a solid starting point and general direction for Micro
 I am confident enough that my results would generalize beyond the data I have, however I do recognize the limitations of my analysis. The sample size I ended up with was much smaller than I would have liked, and this could certainly lead to biases. I am confident though that this analysis would prove useful at least as a starting point for Microsoft.
 
 ### Visual 1
-![graph1](./images/Genre_Performance.png)
+![graph1](./Images/Genre_Performance.png)
 
 ### Visual 2
-![graph2](./images/Budget_Performance.png)
+![graph2](./Images/Budget_Performance.png)
 
 ### Visual 3
-![graph3](./images/Action_Budgets.png)
+![graph3](./Images/Action_Budgets.png)
 
 ### Visual 4
-![graph4](./images/Adventure_Budgets.png)
+![graph4](./Images/Adventure_Budgets.png)
 
 ### Visual 5
-![graph5](./images/Animation_Budgets.png)
+![graph5](./Images/Animation_Budgets.png)
 
 ### Visual 6
-![graph6](./images/Biography_Budgets.png)
+![graph6](./Images/Biography_Budgets.png)
 
 ### Visual 7
-![graph7](./images/Mystery_Budgets.png)
+![graph7](./Images/Mystery_Budgets.png)
 
 
 ## Conclusions
