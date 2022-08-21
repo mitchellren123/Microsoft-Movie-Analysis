@@ -99,18 +99,15 @@ In order to improve this project moving forward, I would seek out more data, and
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Microsoft_Movie_Analysis.ipynb) or our [presentation](./Presentation.pdf).
 
 For any additional questions, please contact **Mitchell Ren - mitchell.rensei@gmail.com**
 
 ## Repository Structure
-
-Describe the structure of your repository and its contents, for example:
-
 ```
-├── Microsoft_README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Generated from code
+├── README.md                           <- The top-level README for reviewers of this project
+├── Microsoft_Movie_Analysis.ipynb      <- Narrative documentation of analysis in Jupyter notebook
+├── Presentation.pdf                    <- PDF version of project presentation
+├── Data                                <- Both sourced externally and generated from code
+└── Images                              <- Generated from code
 ```
